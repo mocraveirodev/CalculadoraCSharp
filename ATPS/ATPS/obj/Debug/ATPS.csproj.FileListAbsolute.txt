@@ -1,0 +1,13 @@
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\ATPS\ATPS\ATPS\bin\Debug\ATPS.exe.config
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\ATPS\ATPS\ATPS\bin\Debug\ATPS.exe
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\ATPS\ATPS\ATPS\bin\Debug\ATPS.pdb
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\ATPS\ATPS\ATPS\obj\Debug\ATPS.csprojResolveAssemblyReference.cache
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\ATPS\ATPS\ATPS\obj\Debug\ATPS.exe
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\ATPS\ATPS\ATPS\obj\Debug\ATPS.pdb
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\ATPS\ATPS\ATPS\bin\Debug\ATPS.exe.config
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\ATPS\ATPS\ATPS\bin\Debug\ATPS.exe
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\ATPS\ATPS\ATPS\bin\Debug\ATPS.pdb
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\ATPS\ATPS\ATPS\obj\Debug\ATPS.csprojAssemblyReference.cache
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\ATPS\ATPS\ATPS\obj\Debug\ATPS.csproj.CoreCompileInputs.cache
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\ATPS\ATPS\ATPS\obj\Debug\ATPS.exe
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\ATPS\ATPS\ATPS\obj\Debug\ATPS.pdb
